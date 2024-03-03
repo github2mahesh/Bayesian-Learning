@@ -1,7 +1,7 @@
 
 # Bayesian Learning
 
-**Welcome!** This repository hosts lab assignments from the **Bayesian Learning** course, implemented in R programming.
+**Welcome!** This repository hosts lab assignments from the **Bayesian Learning** course, implemented in R programming. All the labs have been done in collaboration with my classmate Dinesh Sundaramoorthy.
 
 **What will you find here?**
 
